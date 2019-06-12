@@ -1,0 +1,46 @@
+	
+	body{
+	background-attachment: fixed;
+	background-image:url(https://i.pinimg.com/originals/26/6f/17/266f1731e0b4060fea5265efe6fa6d55.jpg);
+	background-size: cover;
+}
+		.content{
+			background: white;
+			width: 28%;
+			padding: 10px;
+			margin: 80px auto;
+			border-style: outset;
+			border-color: black;
+			box-shadow: 8px 8px #2E2E2E;
+			border-radius: 10px;
+}
+		.titulo{
+			text-align: center;
+			font-size: 45px;
+			font-family: DejaVu Sans Mono;
+			color: #000000;
+            text-shadow: 2px 2px #848484;
+}
+		.texto{
+			background: #D8D8D8;
+			width: 90%;
+			padding: 50px;
+			margin: 60px auto;
+			border-style: double; 
+			border-color: #0A2229;
+			box-shadow: 3px 4px #0A2229;
+			border-radius: 15px;
+}
+		p{
+			font-family: Courier, monospace;
+			font-size: 28px;
+			text-align: center;
+
+}
+		.formaçao{
+			font-family: fantasy;
+			text-align: left;
+			font-size:30px; 
+
+
+}
